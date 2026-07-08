@@ -1,0 +1,6 @@
+{
+  "/api/egyptian-hospitals/route": "app/api/egyptian-hospitals/route.js",
+  "/api/egyptian-doctors/route": "app/api/egyptian-doctors/route.js",
+  "/page": "app/page.js",
+  "/chat/page": "app/chat/page.js"
+}
