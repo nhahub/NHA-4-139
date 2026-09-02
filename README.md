@@ -525,7 +525,7 @@ Run the notebooks in order:
 
 ---
 
-## 🔮 Roadmap
+##  Roadmap
 
 - [x] Parallel Specialist Branches (Drugs, Nutrition, Rehab)
 - [x] Drug interaction checker module
